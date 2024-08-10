@@ -1,0 +1,2 @@
+DATABASE_ASYNC_URL = 'sqlite+aiosqlite:///database.db'
+DATABASE_SYNC_URL = 'sqlite:///database.db'
